@@ -62,7 +62,7 @@ header .menu li {
 #idx_board_wrap > div {
     width: 90%;
     min-width: 1000px;
-    min-width: 1200px;
+    max-width: 1200px;
     margin: 0 auto;
 }
 .idx_board {
